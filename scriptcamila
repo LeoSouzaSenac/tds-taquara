@@ -8,5 +8,5 @@ function saudar(nome) {
   return `Olá, ${nome}! Como vai a força?`;
 }
 
-console.log(saudar("pessoa")); 
-
+// Exemplo de uso:
+console.log(saudar("Recruta")); // Saída: Olá, Recruta! Como vai a força?
