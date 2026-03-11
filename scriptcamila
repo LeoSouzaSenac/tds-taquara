@@ -2,3 +2,11 @@ function somar(a, b) {
   return a - b;
 }
 console.log(somar(5, 10)); 
+
+
+function saudar(nome) {
+  return `Olá, ${nome}! Como vai a força?`;
+}
+
+console.log(saudar("pessoa")); 
+
